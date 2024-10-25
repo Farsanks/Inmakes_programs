@@ -1,0 +1,13 @@
+# # file=open("farsan.txt","w")
+# # file.close()
+# file=open("farsan.txt","r")
+# content=file.read()
+# print(content)
+# file.close()
+#
+# file=open("farsan.txt","w")
+# file.write("iam farsan")
+#file.close()
+file=open("farsan.txt","a")
+file.write(" iam don")
+file.close()
